@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Android 应用程序",
+        "id": "android_applications",
+        "items": [
+            {
+                "name": "Hydrogen",
+                "id": "Hydrogen",
+                "summary": "氢知乎",
+                "image": "images/graphs/aidelua.png",
+                "src": "https://myhydrogen.gitee.io",
+                "icon": "home-outline",
+                "url-type": "主页"
+            }
+        ]
+    },
+    {
+        "name": "工具",
+        "id": "chrome_softwares",
+        "items": [
+            {
+                "name": "网赚盘下载工具",
+                "id": "wangzhuandown",
+                "summary": "为更快下载速度",
+                "image": "images/graphs/aidelua.png",
+                "src": "https://pandown.huajicloud.ml"
+            }
+        ]
+    },
+    {
+        "name": "各种文档",
+        "id": "documents",
+        "items": [
+            {
+                "name": "AndroLua+ 文档",
+                "id": "androlua",
+                "summary": "经过精心整理后的文档",
+                "image": "images/graphs/androluadocument.png",
+                "src": "https://aidelua.github.io/AideLua/",
+                "icon": "file-document-outline",
+                "url-type": "文档"
+            }
+        ]
+    }
+]
